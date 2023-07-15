@@ -1,12 +1,15 @@
+    /* input */
 input[type='number'] {
     padding: 5px;
     width: 50px;
   }
   
+    /* form label */
   form label {
     padding-left: 20px;
   }
   
+    /* result-style */
   .result-style {
     display: flex;
     text-align: left;
@@ -19,6 +22,7 @@ input[type='number'] {
     box-sizing: border-box;
   }
   
+    /* img */
   img {
     max-height: 200px;
     padding-right: 20px;
