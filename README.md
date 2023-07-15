@@ -3,7 +3,9 @@
 Este é um exemplo de arquivo README para um repositório de um projeto criado em JavaScript que utiliza a API do Rick and Morty para exibir informações sobre os personagens da série.
 
 
-![Resultado do projeto](img/thumbnal.png)
+![Projeto](img/thumbnal.png)
+
+[link do resultado] (https://consumo-api-javascript.vercel.app/?vercelToolbarCode=1l2X0o2gQEO3Qum)
 
 ## Instalação
 
